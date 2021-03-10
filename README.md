@@ -1,0 +1,1 @@
+# straip_iowa_gatsby
