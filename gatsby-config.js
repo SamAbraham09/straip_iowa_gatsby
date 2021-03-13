@@ -17,7 +17,7 @@ module.exports = {
     {
       resolve: "gatsby-source-strapi",
       options: {
-        apiURL: "http://localhost:1337",
+        apiURL: "https://fathomless-inlet-76603.herokuapp.com",
         contentTypes: [
           "article",
           "user",
