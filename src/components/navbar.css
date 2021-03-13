@@ -83,7 +83,7 @@ a {
     max-width: 1150px;
     margin: 0 auto;
     padding-left: 0;
-    background-color: powderblue;
+    background-color:#77a4e0;
 }
 .menu__item {
     display: inline-block;
@@ -146,18 +146,18 @@ a {
     content: attr(data-hover);
 }
 .menu__first-word {
-    color: #0c8040;
+    color: white;
 }
 .menu__first-word::before {
     top: 105%;
-    color: #626262;
+    color: blue;
 }
 .menu__second-word {
-    color: #626262;
+    color: blue;
 }
 .menu__second-word::before {
     bottom: 105%;
-    color: #0c8040;
+    color: white;
 }
 
 .dropbtn {
@@ -175,7 +175,7 @@ a {
     margin-top: -30px !important;
     display: none;
     position: absolute;
-    background-color: #f1f1f1;
+    background-color: #b7cde6;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgb(0 0 0 / 20%);
     z-index: 1;
@@ -198,7 +198,7 @@ a {
     margin-top: -30px !important;
     display: none;
     position: absolute;
-    background-color: #f1f1f1;
+    background-color: #b7cde6;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgb(0 0 0 / 20%);
     z-index: 1;
@@ -244,7 +244,7 @@ a {
 }
 
 .menu__first-word {
-    color: #0c8040;
+    color: white;
     font-family: 'Work Sans';
     font-size: 18px;
 }

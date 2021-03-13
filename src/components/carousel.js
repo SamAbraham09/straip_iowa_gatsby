@@ -1,9 +1,9 @@
 import React from "react";
 import { MDBCarousel, MDBCarouselInner, MDBCarouselItem, MDBView, MDBMask } from
     "mdbreact";
-import image4 from "../images/abstract-art1.webp"
-import image2 from "../images/abstract-art2.webp"
-import image3 from "../images/abstract-art3.webp"
+import image4 from "../images/banner1.jpeg"
+import image2 from "../images/banner2.jpeg"
+import image3 from "../images/banner3.jpeg"
 
 const CarouselPage = () => {
     return (

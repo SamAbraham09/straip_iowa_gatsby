@@ -1,11 +1,9 @@
 import React from "react"
 import { StaticQuery, graphql } from "gatsby"
-import board1 from "../../public/static/images/boardMembers/boardheidi2.jpg"
-import board2 from "../../public/static/images/boardMembers/President_boarstara.jpg"
-import board3 from "../../public/static/images/boardMembers/boardsue.jpg"
+import board1 from "../images/boardMembers/boardheidi2.jpg"
+import board2 from "../images/boardMembers/President_boarstara.jpg"
+import board3 from "../images/boardMembers/boardsue.jpg"
 const ComponentName = () => (
-  
-
   <StaticQuery
     query={graphql`
       {
@@ -36,8 +34,6 @@ const ComponentName = () => (
     ))} 
     </div>}
   ></StaticQuery>
-
-  
 )
 
 

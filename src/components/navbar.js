@@ -35,7 +35,7 @@ class NavbarPage extends Component {
           src={logo}
           style={{ height: 60, listStyleType: 'none', float: 'left',marginTop: 10 }}
         />
-        <ul className="menu" style={{ listStyleType: 'none', float: 'right',height: 80,paddingLeft: 40 }}>
+        <ul className="menu" style={{ listStyleType: 'none', float: 'right',height: 80,paddingLeft: 40,fontWeight: 600 }}>
           <li className="menu__item">
             <a href="#" className="menu__link">
               <span className="menu__title">
